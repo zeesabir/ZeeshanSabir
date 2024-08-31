@@ -31,8 +31,8 @@ How to Run:
 python IMDbMovieRanker.py
 
 4. Enter the movie name when prompted.
-Example:
 
+Example:
 Please enter the movie name: Twisters
 The IMDb rating for Twisters is 6.7.
 
